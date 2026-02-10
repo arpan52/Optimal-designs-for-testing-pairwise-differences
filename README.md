@@ -1,7 +1,7 @@
 # Optimal designs for testing pairwise differences: a graph based game theoretic approach
 
 # Description
-This repository contains all the original **R** codes used for the numerical studies in the paper entitled **Optimal designs for testing pairwise differences: a graph based game theoretic approach** authored by **_Arpan Singh, Satya Prakash Singh and Ori davidov_**.
+This repository contains all the original **R** codes used for the numerical studies in the paper entitled **Optimal designs for testing pairwise differences: a graph based game theoretic approach** authored by **_Arpan Singh, Satya Prakash Singh and Ori davidov_**. For a through reading, refer to the [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/sjos.12757).
 
 # Instructions
  To reproduce the results, use the original **R** codes that are available in the **Codes** branch. 
